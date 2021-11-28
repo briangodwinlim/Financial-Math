@@ -1,2 +1,3 @@
 # Financial-Math
-Finance and Financial Mathematics projects
+
+Repository for Finance and Financial Mathematics projects.
